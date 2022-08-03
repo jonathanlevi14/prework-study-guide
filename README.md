@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 This page was designed to help me as a bootcamp newbie be able to better understand coding.
 It will help organize information and give advice on what to study next. 
 The page will help me to become a better coder and it will give me resources to study.
